@@ -1,1 +1,1 @@
-# Alzheimer-Disease-Diagnosis-
+# Alzheimer-Disease-Diagnosis-And Prediction Using MRI DATA
